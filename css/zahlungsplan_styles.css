@@ -1,0 +1,7 @@
+.poweredBy{
+	padding-top: 10px; float:right; text-align: center; width: 1%;
+}
+
+.poweredBy a{
+	text-decoration: none;
+}
